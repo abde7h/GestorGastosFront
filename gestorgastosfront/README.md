@@ -120,7 +120,7 @@ La aplicación utiliza la fuente **Lato** y define varias clases CSS para manten
 
 1. **CORS**: Asegúrate de tener configurado CORS en el backend de Spring Boot para permitir solicitudes del frontend (`http://localhost:5173`).
 
-2. **Backend no disponible**: Si no puedes agregar transacciones o ver las transacciones actuales, verifica que el backend esté corriendo en el puerto `8080`.
+2. **Backend no disponible**: Si no puedes agregar transacciones o ver las transacciones actuales, verifica que el backend esté corriendo en el puerto `8080`. O en el indicado en tu proyecto back-end.
 
 ## Despliegue
 
